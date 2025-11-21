@@ -86,6 +86,3 @@ SAMPLE INPUT AND OUTPUT :
 
 
 
-The code and README show structured understanding—not copied content.
-
-I used simple methods and clean logic to make the solution readable for evaluators
